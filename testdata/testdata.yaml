@@ -1,0 +1,14 @@
+---
+test_by_2_stops:
+  going_from: New Delhi
+  going_to: New
+  going_to_name: New York (JFK)
+  number_days: 4
+  stop: 2 Stops
+test_by_1_stop:
+  going_from: BOM
+  going_to: New
+  going_to_name: DEL
+  number_days: 0
+  stop: 1 Stop
+...
