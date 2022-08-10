@@ -1,0 +1,57 @@
+08/09/2022 16:13:12 - WARNING - <module> : No enter browser, default browser is Chrome
+08/09/2022 16:13:16 - INFO - <module> : Select browser is Chrome
+08/09/2022 16:13:20 - INFO - LaunchPage : Open "My Account" is successful
+08/09/2022 16:13:23 - INFO - LaunchPage : Click on "Login" button is successful
+08/09/2022 16:13:26 - INFO - Authorization : Enter "login" is successful
+08/09/2022 16:13:27 - INFO - Authorization : Click "Continue" button is successful
+08/09/2022 16:13:27 - INFO - TestAuthorization : Validation info: INVALID EMAIL ID
+08/09/2022 16:13:27 - INFO - TestAuthorization : ------------Test finished successful------------
+08/09/2022 16:13:27 - WARNING - <module> : No enter browser, default browser is Chrome
+08/09/2022 16:13:31 - INFO - <module> : Select browser is Chrome
+08/09/2022 16:13:35 - INFO - LaunchPage : Open "My Account" is successful
+08/09/2022 16:13:38 - INFO - LaunchPage : Click on "Login" button is successful
+08/09/2022 16:13:42 - INFO - Authorization : Enter "login" is successful
+08/09/2022 16:13:42 - INFO - Authorization : Click "Continue" button is successful
+08/09/2022 16:13:42 - INFO - TestAuthorization : Validation info: INVALID MOBILE NUMBER
+08/09/2022 16:13:42 - INFO - TestAuthorization : ------------Test finished successful------------
+08/09/2022 16:13:44 - WARNING - <module> : No enter browser, default browser is Chrome
+08/09/2022 16:13:49 - INFO - <module> : Select browser is Chrome
+08/09/2022 16:13:55 - INFO - LaunchPage : Click on "going from" field
+08/09/2022 16:13:55 - INFO - LaunchPage : Add text in "going from" field is successfully
+08/09/2022 16:13:55 - INFO - LaunchPage : Select result from "going from" field is successful
+08/09/2022 16:13:57 - INFO - LaunchPage : Click on "going to" field
+08/09/2022 16:13:58 - INFO - LaunchPage : Add text in "going to" field is successfully
+08/09/2022 16:13:59 - INFO - LaunchPage : Select result from "going to" field is successful
+08/09/2022 16:13:59 - INFO - LaunchPage : Click on "departure date" field is successful
+08/09/2022 16:14:00 - INFO - LaunchPage : Select "departure date" is successful
+08/09/2022 16:14:06 - INFO - LaunchPage : Click on "search flights" button is successful
+08/09/2022 16:14:11 - INFO - SearchResult : Selected flights with "2 stops"
+08/09/2022 16:14:11 - INFO - SearchResult : Open all "more flights" field is successfully
+08/09/2022 16:14:11 - INFO - TestSearchAndVerifyFilter : Number of filtered flights: 6
+08/09/2022 16:14:12 - INFO - TestSearchAndVerifyFilter : ------------Test finished successful------------
+08/09/2022 16:14:12 - WARNING - <module> : No enter browser, default browser is Chrome
+08/09/2022 16:14:17 - INFO - <module> : Select browser is Chrome
+08/09/2022 16:14:21 - INFO - LaunchPage : Click on "going from" field
+08/09/2022 16:14:22 - INFO - LaunchPage : Add text in "going from" field is successfully
+08/09/2022 16:14:23 - INFO - LaunchPage : Select result from "going from" field is successful
+08/09/2022 16:14:24 - INFO - LaunchPage : Click on "going to" field
+08/09/2022 16:14:25 - INFO - LaunchPage : Add text in "going to" field is successfully
+08/09/2022 16:14:26 - INFO - LaunchPage : Select result from "going to" field is successful
+08/09/2022 16:14:26 - INFO - LaunchPage : Click on "departure date" field is successful
+08/09/2022 16:14:27 - INFO - LaunchPage : Select "departure date" is successful
+08/09/2022 16:14:34 - INFO - LaunchPage : Click on "search flights" button is successful
+08/09/2022 16:14:39 - INFO - SearchResult : Selected flights with "1 stop"
+08/09/2022 16:14:44 - WARNING - TestSearchAndVerifyFilter : "More flights" button not found!
+08/09/2022 16:14:44 - INFO - TestSearchAndVerifyFilter : Number of filtered flights: 22
+08/09/2022 16:14:45 - INFO - TestSearchAndVerifyFilter : ------------Test finished successful------------
+08/09/2022 16:14:45 - WARNING - <module> : No enter browser, default browser is Chrome
+08/09/2022 16:14:50 - INFO - <module> : Select browser is Chrome
+08/09/2022 16:14:58 - INFO - LaunchPage : Click on "going from" field
+08/09/2022 16:14:58 - INFO - LaunchPage : Add text in "going from" field is successfully
+08/09/2022 16:14:58 - INFO - LaunchPage : Select result from "going from" field is successful
+08/09/2022 16:15:00 - INFO - LaunchPage : Click on "going to" field
+08/09/2022 16:15:01 - INFO - LaunchPage : Add text in "going to" field is successfully
+08/09/2022 16:15:02 - INFO - LaunchPage : Select result from "going to" field is successful
+08/09/2022 16:15:02 - INFO - LaunchPage : Click on "departure date" field is successful
+08/09/2022 16:15:03 - INFO - LaunchPage : Select "departure date" is successful
+08/09/2022 16:15:09 - INFO - LaunchPage : Click on "search flights" button is successful
