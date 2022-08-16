@@ -4,3 +4,4 @@
 *.log
 reports/
 logs/
+allure-report/
